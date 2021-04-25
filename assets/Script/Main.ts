@@ -107,7 +107,7 @@ export default class Main extends cc.Component {
     }
 
     Connect(): void {
-        let ServerHost: string = "123.0.40.253:1881/ws/chat";
+        let ServerHost: string = "jianmiau.tk:1880/ws/chat";
 
         ServerHost = config.HttpData["ServerHost"] ? config.HttpData["ServerHost"] : ServerHost;
         C2S_Client.GetInstane().connect("ws://" + ServerHost + "");
@@ -122,7 +122,7 @@ export default class Main extends cc.Component {
             return;
         }
 
-        let C: string = "\t";
+        let C: string = " ";
         if (+index < 2) {
             C = "\n";
         }
@@ -260,7 +260,12 @@ export default class Main extends cc.Component {
 
             // 1005 OK鍵(Android TV)
             case cc.macro.KEY.dpadCenter: {
-                this.PV_PageView.setCurrentPageIndex(1);
+                // this.PV_PageView.setCurrentPageIndex(1);
+                let a: cc.Size = cc.view.getDesignResolutionSize();
+                let b: cc.Size = cc.view.getFrameSize();
+                let c: cc.Size = cc.view.getVisibleSizeInPixel();
+                let d: cc.Size = cc.view.getVisibleSize();
+                let e: cc.ResolutionPolicy = cc.view.getResolutionPolicy();
                 break;
             }
 

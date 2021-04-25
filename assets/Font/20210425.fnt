@@ -1,0 +1,17 @@
+info face="華康少女文字W7" size=200 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=200 base=160 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="20210425_0.png"
+chars count=13
+char id=32   x=411   y=148   width=3     height=1     xoffset=-1    yoffset=199   xadvance=101   page=0  chnl=15
+char id=45   x=318   y=148   width=92    height=24    xoffset=5     yoffset=88    xadvance=101   page=0  chnl=15
+char id=48   x=173   y=0     width=85    height=147   xoffset=9     yoffset=25    xadvance=101   page=0  chnl=15
+char id=49   x=246   y=148   width=29    height=147   xoffset=37    yoffset=25    xadvance=101   page=0  chnl=15
+char id=50   x=0     y=153   width=81    height=147   xoffset=11    yoffset=25    xadvance=101   page=0  chnl=15
+char id=51   x=429   y=0     width=82    height=147   xoffset=10    yoffset=25    xadvance=101   page=0  chnl=15
+char id=52   x=82    y=153   width=81    height=147   xoffset=11    yoffset=25    xadvance=101   page=0  chnl=15
+char id=53   x=0     y=0     width=84    height=152   xoffset=9     yoffset=20    xadvance=101   page=0  chnl=15
+char id=54   x=164   y=148   width=81    height=147   xoffset=11    yoffset=25    xadvance=101   page=0  chnl=15
+char id=55   x=345   y=0     width=83    height=147   xoffset=10    yoffset=25    xadvance=101   page=0  chnl=15
+char id=56   x=259   y=0     width=85    height=147   xoffset=9     yoffset=25    xadvance=101   page=0  chnl=15
+char id=57   x=85    y=0     width=87    height=147   xoffset=8     yoffset=25    xadvance=101   page=0  chnl=15
+char id=58   x=276   y=148   width=41    height=100   xoffset=31    yoffset=72    xadvance=101   page=0  chnl=15

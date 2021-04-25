@@ -37,5 +37,8 @@
       "enable": false
     }
   },
-  "last-module-event-record-time": 1614091760612
+  "last-module-event-record-time": 1619319107100,
+  "migrate-history": [
+    "cloud-function"
+  ]
 }
